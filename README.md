@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Tidke</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast with a love for creating impactful projects. Here's a bit more about me:</h3>
+<h3 align="center""Welcome to my GitHub profile! I'm a creative developer with a passion for solving real-world problems through code and building projects that make a difference."</h3>
 
 <h3>🔭 I’m currently working on </h3>
 <ul>
