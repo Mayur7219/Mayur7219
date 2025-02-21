@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayur Tidke
 - Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast with a love for creating impactful projects. Here's a bit more about me:
-🔭 Currently Working On:
+🔭 Currently Working On:   
 Developing full-stack web applications using modern technologies like React, Node.js, and MongoDB
 Exploring machine learning and AI concepts
 Contributing to open-source projects
